@@ -1,3 +1,4 @@
+# Adam optimization
 ## This code snippet demonstrates the training of a TensorFlow model using the Adam optimization algorithm. Let's break it down step by step:
 
 ## The libraries numpy and tensorflow are imported.
